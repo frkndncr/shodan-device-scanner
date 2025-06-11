@@ -5,7 +5,7 @@
 **Last Commit**: May 29, 2025  
 **License**: MIT License  
 **Status**: In Development  
-**Contributions**: Furkan Dinçer
+**Contributions**: Furkan Dinçer | 2420191021 İÖ
 
 ## Proje Adı
 Shodan Device Scanner
